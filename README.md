@@ -42,14 +42,14 @@ PostgreSQL • MongoDB • Git • GitHub
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanikashree-sivakumar/">
-
+    <img src="https://img.shields.io/badge/LinkedIn-Kanikashree-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://k4niz.tech">
-   
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   
   <a href="mailto:kanikashreesivakumar16@gmail.com">
-   
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
