@@ -1,7 +1,5 @@
-##                            Hey, I'm Kani 
-
-**AI Full Stack Developer | GenAI Enthusiast | LLM Explorer**
-
+<h1 align="center">Hey! I'm Kani</h1>
+<p align="center">AI Full Stack Developer | GenAI Enthusiast | LLM Explorer</p>
 I’m an AI-focused technologist passionate about building intelligent systems using  
 Machine Learning, Deep Learning, and Generative AI.
 
