@@ -25,7 +25,7 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <table>
   <tr>
