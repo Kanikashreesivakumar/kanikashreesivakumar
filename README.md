@@ -52,7 +52,7 @@ Machine Learning, Deep Learning, and Generative AI.
   </tr>
 
   <tr>
-    <td><b>🗄 Databases</b></td>
+    <td><b> Databases</b></td>
     <td>PostgreSQL • MongoDB • MySQL • SQLite • Firebase • Supabase • Vector DBs</td>
   </tr>
 
