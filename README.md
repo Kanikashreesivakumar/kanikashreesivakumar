@@ -5,12 +5,12 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🏆 HacktoberFest
+##  HacktoberFest
 [![Holopin](https://holopin.me/kanikashreesivakumar)](https://holopin.io/@kanikashreesivakumar)
 
 ---
 
-## 📊 GitHub Snapshot
+##  GitHub Snapshot
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=tokyonight" />
@@ -23,7 +23,7 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -32,22 +32,22 @@ Machine Learning, Deep Learning, and Generative AI.
   </tr>
 
   <tr>
-    <td><b>🎨 Frontend & Design</b></td>
+    <td><b> Frontend & Design</b></td>
     <td>Next.js • React • Tailwind CSS • HTML • CSS • JavaScript • Figma • Framer • Blender</td>
   </tr>
 
   <tr>
-    <td><b>⚙️ Backend</b></td>
+    <td><b> Backend</b></td>
     <td>Node.js • Flask  • FastAPI • GoLang • REST APIs </td>
   </tr>
 
   <tr>
-    <td><b>🧠 AI & GenAI</b></td>
+    <td><b> AI & GenAI</b></td>
     <td>OpenAI • DeepSeek • LangChain • RAG • Vector Databases • Gemini API • LLMs</td>
   </tr>
 
   <tr>
-    <td><b>📊 Data & ML</b></td>
+    <td><b> Data & ML</b></td>
     <td>Pandas • NumPy • PyTorch • Jupyter Notebook</td>
   </tr>
 
@@ -57,12 +57,12 @@ Machine Learning, Deep Learning, and Generative AI.
   </tr>
 
   <tr>
-    <td><b>☁️ DevOps & Infra</b></td>
+    <td><b>DevOps & Infra</b></td>
     <td>Docker • Vercel • GitHub Actions</td>
   </tr>
 
   <tr>
-    <td><b>🔧 Other</b></td>
+    <td><b> Other</b></td>
     <td>Git • GitHub  • API Integrations</td>
   </tr>
 
@@ -71,7 +71,7 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanikashree-sivakumar/">
