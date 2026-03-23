@@ -38,7 +38,7 @@ Machine Learning, Deep Learning, and Generative AI.
 
   <tr>
     <td><b>⚙️ Backend</b></td>
-    <td>Node.js • Flask •NodeJs • FastAPI • GoLang • REST APIs </td>
+    <td>Node.js • Flask  • FastAPI • GoLang • REST APIs </td>
   </tr>
 
   <tr>
