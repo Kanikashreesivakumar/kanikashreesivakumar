@@ -5,7 +5,7 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🏆 Holopin Badges
+## 🏆 HacktoberFest
 [![Holopin](https://holopin.me/kanikashreesivakumar)](https://holopin.io/@kanikashreesivakumar)
 
 ---
@@ -67,6 +67,7 @@ Machine Learning, Deep Learning, and Generative AI.
   </tr>
 
 </table>
+---
 
 ## 🌐 Connect With Me
 
