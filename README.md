@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Kani (k4niz)
+##                            Hey, I'm Kani 
 
 **AI Full Stack Developer | GenAI Enthusiast | LLM Explorer**
 
@@ -25,18 +25,50 @@ Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🚀 Frontend
-HTML • CSS • JavaScript • React • Next.js  
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Tools & Frameworks</th>
+  </tr>
 
-### ⚙️ Backend
-Python • Flask • Node.js • Go • Firebase • Supabase  
+  <tr>
+    <td><b>🎨 Frontend & Design</b></td>
+    <td>Next.js • React • Tailwind CSS • HTML • CSS • JavaScript • Figma • Framer • Blender</td>
+  </tr>
 
-### 🗄 Database & Tools
-PostgreSQL • MongoDB • Git • GitHub  
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>Node.js • Flask •NodeJs • FastAPI • GoLang • REST APIs </td>
+  </tr>
 
----
+  <tr>
+    <td><b>🧠 AI & GenAI</b></td>
+    <td>OpenAI • DeepSeek • LangChain • RAG • Vector Databases • Gemini API • LLMs</td>
+  </tr>
+
+  <tr>
+    <td><b>📊 Data & ML</b></td>
+    <td>Pandas • NumPy • PyTorch • Jupyter Notebook</td>
+  </tr>
+
+  <tr>
+    <td><b>🗄 Databases</b></td>
+    <td>PostgreSQL • MongoDB • MySQL • SQLite • Firebase • Supabase • Vector DBs</td>
+  </tr>
+
+  <tr>
+    <td><b>☁️ DevOps & Infra</b></td>
+    <td>Docker • Vercel • GitHub Actions</td>
+  </tr>
+
+  <tr>
+    <td><b>🔧 Other</b></td>
+    <td>Git • GitHub  • API Integrations</td>
+  </tr>
+
+</table>
 
 ## 🌐 Connect With Me
 
