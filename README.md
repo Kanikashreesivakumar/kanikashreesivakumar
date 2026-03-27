@@ -11,19 +11,16 @@ Machine Learning, Deep Learning, and Generative AI.
 ---
 
 ##  GitHub Snapshot
-## 📊 GitHub Stats
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  
-  <!-- Streak (with cache busting) -->
-  <img src="https://streak-stats.demolab.com?user=kanikashreesivakumar&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kanikashreesivakumar&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=tokyonight&cache_seconds=1800" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
-
 ---
 
 ##  Tech Stack
