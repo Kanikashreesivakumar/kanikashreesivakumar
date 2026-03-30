@@ -9,10 +9,19 @@ Machine Learning, Deep Learning, and Generative AI.
 [![Holopin](https://holopin.me/kanikashreesivakumar)](https://holopin.io/@kanikashreesivakumar)
 
 ---
+## GitHub Snapshot
 
-##  GitHub Snapshot
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=tokyonight" /> <img src="https://streak-stats.demolab.com?user=kanikashreesivakumar&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanikashreesivakumar&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
