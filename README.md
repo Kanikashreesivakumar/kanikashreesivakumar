@@ -17,6 +17,9 @@ Machine Learning, Deep Learning, and Generative AI.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kanikashreesivakumar&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=dark" />
+</p>
 
 
 ---
