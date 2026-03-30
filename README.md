@@ -12,16 +12,10 @@ Machine Learning, Deep Learning, and Generative AI.
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikashreesivakumar&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kanikashreesivakumar&theme=dark&hide_border=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kanikashreesivakumar&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikashreesivakumar&layout=compact&theme=dark" />
-</p>
 ---
 
 ##  Tech Stack
